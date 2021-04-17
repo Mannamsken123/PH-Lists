@@ -3,6 +3,7 @@
 Pi-Hole blocklists and more.
 Just for private use.
 
+See Blocklists in _Blocklists.md_
 ### License
 
 License: MIT
